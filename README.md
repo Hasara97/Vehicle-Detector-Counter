@@ -1,4 +1,4 @@
-# Vehicle-Detector-Counter
+# Vehicle-Detector-and-Counter
 A vehicle detector and counter using Python, OpenCV and Cascade Classifiers. 
 
 Code is written to detect only bikes (Two wheelers). However, you can detect busses,cars and even pedestrians using a different classifier.
